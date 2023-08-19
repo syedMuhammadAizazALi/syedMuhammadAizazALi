@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Muhammad Aizaz Ali</h1>
-<h3 align="center">A paswsionate frontend developer from pakistan</h3>
+<h3 align="center">A passionate frontend developer from pakistan</h3>
 
 - 🌱 I’m currently learning **javascript**
 
